@@ -2,7 +2,7 @@
 
 https://tharaniesh3.github.io/To-Do-List/
 
-## User-Guide
+## USER-MANUAL
 
 ### Heyyo Iam Tharaniesh. I have made a To-Do-List web app and in this readme.md ill tell you how to add,delete,edit,clear tasks.
 
