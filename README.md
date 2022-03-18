@@ -1,10 +1,9 @@
 ## To-Do-List
+<Link>
 
-You can use the [editor on GitHub](https://github.com/Tharaniesh3/To-Do-List/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Guide
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Heyyo Iam Tharaniesh. I have made a To-Do-List web app and in this readme.md ill tell you how to add,delete,edit,clear tasks.
 
 ```markdown
 Syntax highlighted code block
