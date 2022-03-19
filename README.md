@@ -12,7 +12,7 @@ https://tharaniesh3.github.io/To-Do-List/
  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task9img's/Screenshot%20(1213).png
  ## EDIT AND DELETE
  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task9img's/Screenshot%20(1215).png)
-   ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task9img's/Screenshot%20(1218).png)
+  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task9img's/Screenshot%20(1218).png)
   ## PENDING TASKS
   ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task9img's/Screenshot%20(1216).png)
    ## FINISHED TASKS
