@@ -4,7 +4,7 @@ https://tharaniesh3.github.io/To-Do-List/
 
 ## USER-MANUAL
 
-### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a To-Do-List web app and in this readme.md ill tell you how to add,delete,edit,clear tasks.
+### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a To-Do-List web app and in this readme.md ill tell you how to add,delete,edit,clear tasks,see pending tasks and finished tasks.
 ## GETTING STARTED
  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task9img's/Screenshot%20(1211).png)
  ## CHECKING TASKS
